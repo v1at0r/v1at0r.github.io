@@ -15,7 +15,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
-mathjax: true
+# mathjax: true
 ---
 
 Hey there! I am Mudit, currently a CS Major. I will be completing my undergraduate studies in May 2023. I am interested in pursuing Mathematics further.
@@ -28,6 +28,6 @@ At the University of Victoria, I have had the pleasure of working with [Dr. Aaro
 
 Currently, I am dabbling in Combinatorics, Representation Theory, Algebraic Coding Theory, and Functional Analysis. Previously, I have tried my hand at Modern Algebra, Cryptography, Algorithms, and Number Theory.
 
-I am a firm believer in $T$ supremacy in the $\pi $ vs $T$ debate.
+I am a firm believer in $$T$$ supremacy in the $$\pi$$ vs $$T$$ debate.
 
 My detailed CV can be found [here]({{ page.cv_pdf | prepend: 'assets/pdf/Mudit_Long_CV.pdf' | relative_url}}) :)
