@@ -28,6 +28,6 @@ At the University of Victoria, I have had the pleasure of working with [Dr. Aaro
 
 Currently, I am dabbling in Combinatorics, Representation Theory, Algebraic Coding Theory, and Functional Analysis. Previously, I have tried my hand at Modern Algebra, Cryptography, Algorithms, and Number Theory.
 
-I am a firm believer in $\tau$ supremacy in the $\pi$ vs $\tau$ debate.
+I am a firm believer in $\tau $ supremacy in the $\pi $ vs $\tau $ debate.
 
 My detailed CV can be found [here]({{ page.cv_pdf | prepend: 'assets/pdf/Mudit_Long_CV.pdf' | relative_url}}) :)
