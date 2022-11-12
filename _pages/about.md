@@ -5,7 +5,7 @@ permalink: /
 subtitle: Final year undergrad at <a href='https://www.iiitd.ac.in/'>IIIT Delhi</a>
 profile:
   align: right
-  image: my_photo.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
