@@ -2,96 +2,124 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mudit Aggarwal
     - name: Date of Birth
-      value: 14th March 1879
+      value: 30 September 2001
     - name: Languages
-      value: English, German
+      value: English, Hindi
+    - name: Contact
+      value: mudit19063 (at) iiitd (dot) ac (dot) in
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Technology
+      institution: Indraprastha Institute of Information Technology, Delhi
+      year: 2019-23
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "Expected Graduation: May 2023"
+        - "Major: Computer Science and Engineering"
+        - "Cummulative GPA: 9.21/10"
+        - "Awarded Dean's Award for Academic Excellence"
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    # - title: Class 12 - CBSE AISSCE
+    #   institution: Amity International School, Mayur Vihar
+    #   year: 2019
+    #   description:
+    #     - "Aggregate: 95.25%"
+    #     - "Subjects: English, Physics, Chemistry, Mathematics, Computer Science"
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Reed-Solomon Codes and their Variants (Thesis)
+      institution: Indraprastha Institute of Information Technology
+      year: Aug'22 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advisor - Dr. Anuradha Sharma, IIITD
+    - title: Generating Functions for Tiling Rectangles
+      institution: Indraprastha Institute of Information Technology
+      year: May'21 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Advisor - Dr. Samrith Ram, IIITD
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Shrinking Generators for Cryptography (Mitacs Internship)
+      institution: University of Victoria 
+      year: May'22 - Present
       description:
+        - Advisor - Dr. Aaron Gulliver, UVic
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Bounded Arboricity Graph Streaming
+      institution: Remote collaboration
+      year: Jan'21 - May'21
+      description:
+        - Advisors - Dr. Saket Saurabh, IMSc and Dr. Akanksha Agrawal, IITM
+    
+    - title: Sunflower Lemma and Lifting Theorems
+      institution: University of Victoria
+      year: May'22 - Sep'22
+      description:
+        - Advisor - Dr. Sajin Koroth, UVic
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Coursework
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Reading Courses
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Differential Geometry and Topology (A) [under Dr. Shilpak Banerjee]
+        - Combinatorics and Representation Theory [under Dr. Samrith Ram]
+        - Advanced Linear Algebra [under Dr. Samrith Ram]
 
-- title: Other Interests
-  type: list
+    - title: Graduate Courses
+      items: 
+        - Abstract Algebra II (A)
+        - Calculus on R^n (A)
+        - Functional Analysis (A)
+        - Theory of Modern Cryptography (A)
+        - Applied Cryptography (B-)
+        - Topics in Number Theory
+        - Approximation Algorithms
+        - Communication Complexity
+
+    - title: Undergraduate Courses
+      items:
+        - Discrete Mathematics (A+) [+ Teaching Assistant]
+        - Real Analysis II (A)
+        - Abstract Algebra I (A) [+ Teaching Assistant]
+        - Probability and Statistics (A)
+        - Differential Equations (A)
+        - Theory of Computation (A)
+        - Data Structures and Algorithms (A)
+        - Digital Circuits (A)
+        - Linear Algebra (A-)
+        - Real Analysis I (A-)
+        - Analysis and Design of Algorithms (A-)
+        - Basic Electronics (A-)
+        - Modern Algorithm Design (B)
+        - Signals and Systems (B)
+        - Combinatorics and Applications [+ Teaching Assistant]
+        - Multivariate Calculus [+ Teaching Assistant]
+        - Number Theory
+
+- title: Programming Projects
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: <a href="https://github.com/cyborg-iiitd/Drone_Simulator">Quadrotor Drone Simulator</a>
+      year: Apr'20 - Jun'20
+
+    - title: <a href="https://github.com/agamdeepbains/Color-Switch">Colour Switch</a>
+      year: Nov'20 - Dec'20
+
+    - title: <a href="https://github.com/agamdeepbains/PIS-Major-Project">Smart Room Prototype</a>
+      year: Oct'19 - Dec'19
+
+    - title: Line Follower
+      year: Jan'20 - Feb'20
+
+    - title: L1 and L2 Cache Simulator
+      year: Apr'20 - May'20
+
+    
