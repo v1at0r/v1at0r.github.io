@@ -19,7 +19,7 @@
       description:
         - "Expected Graduation: May 2023"
         - "Major: Computer Science and Engineering"
-        - "Cummulative GPA: 9.21/10"
+        - "Cummulative GPA: 9.18/10"
         - "Awarded Dean's Award for Academic Excellence"
         # - title: Description 3.
         #   contents:
@@ -69,8 +69,8 @@
   contents:
     - title: Reading Courses
       items: 
+        - Combinatorics and Representation Theory (A) [under Dr. Samrith Ram]
         - Differential Geometry and Topology (A) [under Dr. Shilpak Banerjee]
-        - Combinatorics and Representation Theory [under Dr. Samrith Ram]
         - Advanced Linear Algebra [under Dr. Samrith Ram]
 
     - title: Graduate Courses
@@ -78,10 +78,14 @@
         - Abstract Algebra II (A)
         - Calculus on R^n (A)
         - Functional Analysis (A)
+        - Approximation Algorithms (A)
         - Theory of Modern Cryptography (A)
+        - Topics in Number Theory (B)
         - Applied Cryptography (B-)
-        - Topics in Number Theory
-        - Approximation Algorithms
+        - Measure and Probability Theory
+        - Information Theory
+        - Lattices in Computer Science
+        - Quantum Computing
         - Communication Complexity
 
     - title: Undergraduate Courses
