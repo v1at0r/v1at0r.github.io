@@ -75,16 +75,18 @@
 
     - title: Graduate Courses
       items: 
+        - Functional Analysis (A)
         - Abstract Algebra II (A)
         - Calculus on R^n (A)
-        - Functional Analysis (A)
         - Approximation Algorithms (A)
         - Theory of Modern Cryptography (A)
         - Topics in Number Theory (B)
         - Applied Cryptography (B-)
-        - Measure and Probability Theory
         - Information Theory
-        - Lattices in Computer Science
+        - Randomised Algorithms
+        - Lattices in Computer Science        
+        - Measure and Probability Theory
+        - Algebraic Coding Theory
         - Quantum Computing
         - Communication Complexity
 
