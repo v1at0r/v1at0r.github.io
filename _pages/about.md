@@ -30,4 +30,4 @@ Currently, I am dabbling in Combinatorics, Representation Theory, Algebraic Codi
 
 I am a firm believer in $$\tau$$ supremacy in the $$\pi$$ vs $$\tau$$ debate.
 
-My detailed CV can be found [here]({{ page.cv_pdf | prepend: 'assets/pdf/Mudit_Long_CV.pdf' | relative_url}}) :)
+My detailed CV can be found [here]({{ page.cv_pdf | prepend: 'assets/pdf/Mudit_Long_CV.pdf' | relative_url}}) and a smaller but more academic-focussed one can found [here]({{ page.cv_pdf | prepend: 'assets/pdf/Mudit_CV.pdf' | relative_url}}) :)
