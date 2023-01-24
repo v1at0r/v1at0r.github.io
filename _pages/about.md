@@ -22,7 +22,7 @@ Hey there! I am Mudit, currently a CS Major. I will be completing my undergradua
 
 When I am not studying math, watching anime, or failing academically, I like to trek and play tennis. I also like running and playing chess. I spend way too much time on [Reddit](https://www.reddit.com/r/mathmemes/) and [Spotify](https://open.spotify.com/album/7e4oUmqbUx0NV43JjmlxRZ) as well.
 
-At IIIT Delhi, I have had the pleasure of working with [Dr. Samrith Ram](https://sites.google.com/site/samrithram/home), [Dr. Anuradha Sharma](https://www.anuradhasharma.info/), [Dr. Satish Kumar Pandey](http://noncommutative.space/), and [Dr. Shilpak Banerjee](https://sites.google.com/view/shilpakbanerjee/home) under various capacities (for a very broad definition of working). 
+At IIIT Delhi, I have had the pleasure of working with [Dr. Samrith Ram](https://sites.google.com/site/samrithram/home), [Dr. Anuradha Sharma](https://www.anuradhasharma.info/), [Dr. Satish Kumar Pandey](http://noncommutative.space/), [Dr. Krishanu Roy](https://www.imsc.res.in/krishanu_roy), and [Dr. Shilpak Banerjee](https://sites.google.com/view/shilpakbanerjee/home) under various capacities (for a very broad definition of working). 
 
 At the University of Victoria, I have had the pleasure of working with [Dr. Aaron Gulliver](https://www.ece.uvic.ca/~agullive/) and [Dr. Sajin Koroth](https://web.uvic.ca/~skoroth/).
 
