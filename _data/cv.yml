@@ -81,11 +81,11 @@
         - Approximation Algorithms (A)
         - Theory of Modern Cryptography (A)
         - Topics in Number Theory (B)
-        - Applied Cryptography (B-)        
-        - Measure and Probability Theory
+        - Applied Cryptography (B-)
         - Information Theory
         - Randomised Algorithms
-        - Lattices in Computer Science
+        - Lattices in Computer Science        
+        - Measure and Probability Theory
         - Algebraic Coding Theory
         - Quantum Computing
         - Communication Complexity
@@ -94,7 +94,7 @@
       items:
         - Discrete Mathematics (A+) [+ Teaching Assistant]
         - Real Analysis II (A)
-        - Abstract Algebra I (A) [+ Teaching Assistant]
+        - Abstract Algebra I (A) [+ 2x Teaching Assistant]
         - Probability and Statistics (A)
         - Differential Equations (A)
         - Theory of Computation (A)
