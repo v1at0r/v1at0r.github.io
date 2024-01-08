@@ -6,9 +6,9 @@
     - name: Email
       value: muditagg (at) student (dot) ubc (dot) ca
     - name: Office
-      value: MATH126\
-             Department of Mathematics, UBC\
-             Vancouver, BC, Canada\
+      value: MATH126<br>
+             Department of Mathematics, UBC<br>
+             Vancouver, BC, Canada<br>
              V6T 1Z2
              
 - title: Education
