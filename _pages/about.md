@@ -9,8 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
      <p>Office: MATH126</p>
-  #  <p>Department of Mathematics, UBC</p>
-  #  <p>Vancouver, BC, Canada V6T 1Z2</p>
+     <p>muditagg (at) student (dot) ubc (dot) ca</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
