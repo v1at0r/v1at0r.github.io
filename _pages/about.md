@@ -2,15 +2,15 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: Final year undergrad at <a href='https://www.iiitd.ac.in/'>IIIT Delhi</a>
+subtitle: Math Masters student at <a href='https://www.math.ubc.ca/'>UBC Vancouver</a>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # address: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  address: >
+     <p>MATH126</p>
+     <p>Department of Mathematics, UBC</p>
+     <p>Vancouver, BC, Canada V6T 1Z2</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -18,15 +18,15 @@ social: false  # includes social icons at the bottom of the page
 # mathjax: true
 ---
 
-Hey there! I am Mudit, currently a CS Major. I will be completing my undergraduate studies in May 2023. I am interested in pursuing Mathematics further.
+Hey there! I am Mudit, a Master's student at the [Department of Mathematics, UBC](https://www.math.ubc.ca), fortunate to be advised by [Dr. Andrew Rechnitzer](https://personal.math.ubc.ca/~andrewr/front_page.html). I completed my undergraduate degree in Computer Science and Engineering from [IIIT Delhi](https://www.math.ubc.ca).
 
-When I am not studying math, watching anime, or failing academically, I like to trek and play tennis. I also like running and playing chess. I spend way too much time on [Reddit](https://www.reddit.com/r/mathmemes/) and [Spotify](https://open.spotify.com/album/7e4oUmqbUx0NV43JjmlxRZ) as well.
+When I am not studying math, watching anime, or failing academically, I like to trek and play tennis. I also like running, playing chess, and trying to boulder. I spend way too much time on [Reddit](https://www.reddit.com/r/mathmemes/) and [Spotify](https://open.spotify.com/album/7e4oUmqbUx0NV43JjmlxRZ) as well.
 
-At IIIT Delhi, I have had the pleasure of working with [Dr. Samrith Ram](https://sites.google.com/site/samrithram/home), [Dr. Anuradha Sharma](https://www.anuradhasharma.info/), [Dr. Satish Kumar Pandey](http://noncommutative.space/), [Dr. Krishanu Roy](https://www.imsc.res.in/krishanu_roy), and [Dr. Shilpak Banerjee](https://sites.google.com/view/shilpakbanerjee/home) under various capacities (for a very broad definition of working). 
+At IIIT Delhi, I have had the pleasure of working with [Dr. Samrith Ram](https://sites.google.com/site/samrithram/home), [Dr. Manuj Mukherjee](https://sites.google.com/view/manuj-mukherjee/home), and [Dr. Anuradha Sharma](https://www.anuradhasharma.info/).
 
 At the University of Victoria, I have had the pleasure of working with [Dr. Aaron Gulliver](https://www.ece.uvic.ca/~agullive/) and [Dr. Sajin Koroth](https://web.uvic.ca/~skoroth/).
 
-Currently, I am dabbling in Combinatorics, Representation Theory, Algebraic Coding Theory, and Functional Analysis. Previously, I have tried my hand at Modern Algebra, Cryptography, Algorithms, and Number Theory.
+Currently, I am dabbling in Analytic Combinatorics, Representation Theory, Information Theory, and Coding Theory. I am also exploring other fields like Functional Analysis.
 
 I am a firm believer in $$\tau$$ supremacy in the $$\pi$$ vs $$\tau$$ debate.
 
