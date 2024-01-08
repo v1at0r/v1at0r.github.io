@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: Main Page
 permalink: /
 subtitle: Math Masters student at <a href='https://www.math.ubc.ca/'>UBC Vancouver</a>
 profile:
